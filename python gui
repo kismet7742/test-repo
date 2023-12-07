@@ -1,0 +1,3 @@
+pip install -i
+import sys
+from pyqt5.qtwidgets import Qapllication,Qwidget, Qlibel, QvboxLayout
