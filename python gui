@@ -2,4 +2,6 @@ pip install -i
 import sys
 from pyqt5.qtwidgets import Qapllication,Qwidget, Qlibel, QvboxLayout
 app=Qapplication(sys.argv)
-w=Qwidget
+w=Qwidget() #建立窗体对象
+w.resize(500,500)
+w.layout
